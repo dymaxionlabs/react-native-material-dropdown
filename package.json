@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material-dropdown",
+  "name": "@dymaxionlabs/react-native-material-dropdown",
   "version": "0.11.1",
   "license": "BSD-3-Clause",
   "author": "Alexander Nazarov <n4kz@n4kz.com>",
@@ -18,7 +18,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/n4kz/react-native-material-dropdown.git"
+    "url": "git://github.com/dymaxionlabs/react-native-material-dropdown.git"
   },
   "peerDependencies": {
     "react": "*",
@@ -36,6 +36,6 @@
     "prop-types": "^15.5.9",
     "react-native-material-buttons": "^0.5.0",
     "react-native-material-ripple": "^0.8.0",
-    "react-native-material-textfield": "^0.12.0"
+    "rn-material-ui-textfield": "^1.0.9"
   }
 }
