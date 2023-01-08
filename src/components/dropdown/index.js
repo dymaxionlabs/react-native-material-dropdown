@@ -9,11 +9,11 @@ import {
   TouchableWithoutFeedback,
   Dimensions,
   Platform,
-  ViewPropTypes,
   I18nManager,
 } from 'react-native';
 import Ripple from 'react-native-material-ripple';
 import { TextField } from 'rn-material-ui-textfield';
+import { TextPropTypes, ViewPropTypes } from 'deprecated-react-native-prop-types'
 
 import DropdownItem from '../item';
 import styles from './styles';
@@ -133,7 +133,7 @@ export default class Dropdown extends PureComponent {
     disabledItemColor: PropTypes.string,
     baseColor: PropTypes.string,
 
-    itemTextStyle: Text.propTypes.style,
+    itemTextStyle: TextPropTypes.style,
 
     itemCount: PropTypes.number,
     itemPadding: PropTypes.number,
