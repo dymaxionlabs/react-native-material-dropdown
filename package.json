@@ -37,6 +37,6 @@
     "prop-types": "^15.5.9",
     "react-native-material-buttons": "^0.5.0",
     "react-native-material-ripple": "^0.8.0",
-    "react-native-material-textfield": "github:dymaxionlabs/react-native-material-textfield#4e3de09479fd9f9e0f1fca4f5a2082ed3d36cf4d"
+    "react-native-material-textfield": "github:dymaxionlabs/react-native-material-textfield#ae8517f63e1138f3f7a29673230cc6e0e8b96f57"
   }
 }
