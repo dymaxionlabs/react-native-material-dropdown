@@ -12,7 +12,7 @@ import {
   I18nManager,
 } from 'react-native';
 import Ripple from 'react-native-material-ripple';
-import { TextField } from 'rn-material-ui-textfield';
+import { TextField } from 'react-native-material-textfield';
 import { TextPropTypes, ViewPropTypes } from 'deprecated-react-native-prop-types'
 
 import DropdownItem from '../item';

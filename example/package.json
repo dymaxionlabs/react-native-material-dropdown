@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.53.0",
-    "@dymaxionlabs/react-native-material-dropdown": "file:../"
+    "react-native-material-dropdown": "file:../"
   },
   "devDependencies": {
     "babel-preset-react-native": "4.0.0"
